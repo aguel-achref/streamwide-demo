@@ -1,0 +1,7 @@
+# Node modules
+node_modules/
+# Environment variables
+.env
+# Google API credentials
+token.json
+credentials.json
